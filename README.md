@@ -1,2 +1,2 @@
 # Takvim
-Js takvim
+Javascript takvim
